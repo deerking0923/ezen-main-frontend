@@ -17,7 +17,7 @@ Proof-of-Concept: API Gateway를 통해 Backend 서비스와 로컬 통신 완�
 
 ## 설치 & 실행
 ```bash
-git clone https://github.com/username/dadok-msa-frontend.git
+git clone https://github.com/deerking0923/ezen-main-frontend.git
 cd dadok-msa-frontend
 npm install
 npm run dev
