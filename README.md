@@ -6,7 +6,7 @@ Next.js 기반의 읽기 기록 서비스 UI (Proof-of-Concept)
 
 
 ## 프로젝트 상태
-Proof-of-Concept: API Gateway를 통해 Backend 서비스와 로컬 통신 완료. 클라우드 배포 예정.
+Proof-of-Concept: API Gateway를 통해 Backend 서비스와 로컬 통신 완료.
 
 
 ## 기술 스택
