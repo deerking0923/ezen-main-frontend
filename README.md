@@ -10,10 +10,16 @@ Proof-of-Concept: API Gateway를 통해 Backend 서비스와 로컬 통신 완�
 
 
 ## 기술 스택
-- **Framework:** Next.js (TypeScript)
-- **Data Fetching:** Axios
-- **Tooling:** ESLint, Prettier
-
+| Category | Technologies |
+|----------|--------------|
+| Architecture | Microservices (MSA) via API Gateway |
+| Framework | Next.js (TypeScript) |
+| Styling | CSS Modules |
+| Data Fetching | Axios |
+| API Integration | Naver Books API, Backend RESTful APIs (via API Gateway) |
+| Routing | Next.js Router |
+| Collaboration | Git/GitHub, Postman, Notion |
+| Dev Environment | VS Code, Chrome DevTools |
 
 ## 설치 & 실행
 ```bash
