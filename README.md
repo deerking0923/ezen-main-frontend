@@ -1,4 +1,4 @@
-# 🚀 Dadok Dadok — MSA Version (Frontend)
+# Dadok Dadok — MSA Version (Frontend)
 
 
 ## 한 줄 소개
@@ -6,7 +6,7 @@ Next.js 기반의 읽기 기록 서비스 UI (Proof-of-Concept)
 
 
 ## 프로젝트 상태
-Proof-of-Concept: API Gateway를 통해 Backend 서비스와 로컬 통신 완료.
+Proof-of-Concept: API Gateway를 통해 Backend 서비스와 로컬 통신 완료. 로컬 환경에서만 작동.
 
 
 ## 기술 스택
@@ -21,13 +21,6 @@ Proof-of-Concept: API Gateway를 통해 Backend 서비스와 로컬 통신 완�
 | Collaboration | Git/GitHub, Postman, Notion |
 | Dev Environment | VS Code, Chrome DevTools |
 
-## 설치 & 실행
-```bash
-git clone https://github.com/deerking0923/ezen-main-frontend.git
-cd dadok-msa-frontend
-npm install
-npm run dev
-```
 
 
 ## 환경 변수 (`.env`)
